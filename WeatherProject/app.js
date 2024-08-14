@@ -43,7 +43,7 @@ app.listen(2000, function() {
 // const app = express();
 
 // app.get("/", (req, res) => {
-//     const url = "https://api.tomorrow.io/v4/weather/forecast?location=Mumbai&apikey=37gT4NdUkB65NhVmRvSywu2RzjGZQqS8";
+//     const url = "https://api.tomorrow.io/v4/weather/forecast?location=Mumbai&apikey=";
     
 //     https.get(url, (response) => {
 //         let data = '';
